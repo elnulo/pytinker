@@ -12,3 +12,8 @@ This actually worked quite well. Had to switch to a diffrent UI toolkit (QT via 
 
 
 Some installs and pip3 installs were required but not that many.
+Pip3 ones:
+- pyqt6
+- PyQt6-WebEngine
+
+
